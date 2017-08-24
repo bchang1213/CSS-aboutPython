@@ -1,0 +1,182 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#ubercontainer{
+	width: 870px;
+	background-color: #265175;
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+header img{
+	margin-left: 50px;
+	width: 300px;
+}
+header img,.textandsearch{
+	display: inline-block;
+}
+
+.textandsearch{
+	margin-left: 260px;
+	vertical-align: top;
+}
+
+.textandsearch p{
+	color: white;
+	font-size: 12px;
+	margin-left: 30px;
+	padding-top: 10px;
+	margin-bottom: 2px;
+}
+
+.textandsearch p a{
+	color: #F9CE48;
+	font-size: 10px;
+	vertical-align: top;
+}
+
+.searchbar{
+	background-color: #444444;
+	height: 30px;
+	padding-left: 20px;
+	padding-right: 15px;
+	padding-top: 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px black;
+}
+
+#searchfield{
+	padding-bottom: 3px;
+	padding-top: 3px;
+	text-align: center;
+}
+
+button{
+	color:white;
+	background-color: #265175;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+header p{
+	display: block;
+	margin-bottom: 10px;
+}
+
+#topbar{
+	text-align: center;
+	background-color: #3A77AB;
+	border-radius: 5px;
+	color: white;
+	width: 700px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 100px;
+	box-shadow: 1px 1px 1px black;
+}
+
+#topbar ul li{
+	display: inline;
+	margin-left: 20px;
+}
+
+.middlesection{
+	margin-bottom: 20px;
+}
+
+.sidebar{
+	margin-left: 100px;
+	padding-top: 10px;
+	width: 200px;
+	text-align: center;
+}
+
+#topbar ul,.zenofpython{
+	list-style-type: none;
+}
+
+.sidebar, .aboutPython{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+}
+
+.aboutPython{
+	color: white;
+	text-align: center;
+	width: 470px;
+	font-size: 12px;
+}
+
+.pythonzen{
+	margin-top: 5px;
+	font-style: italic;
+	color:#F9CE48;
+}
+
+.zen{
+	margin-top: 5px;
+}
+
+.sidebar ul li a{
+	color: white;
+}
+
+.white{
+	background-color: white;
+	text-align: center;
+}
+.whiteboxes{
+	margin-top: 10px;
+	border-top: 3px solid #77A9D3;
+	display: inline-block;
+	width: 300px;
+	margin-right: 50px;
+	vertical-align: top;
+}
+
+.whiteboxes h5{
+	margin-top: 10px;
+	font-weight: 500;
+}
+
+.whiteboxes p{
+	margin-top: 5px;
+	font-size: 12px;
+}
+
+.whiteboxes ul{
+	margin-top: 5px;
+	margin-bottom: 10px;
+	font-size: 12px;
+	list-style-type: square;
+}
+
+.whiteboxes ul li a{
+	color: #579BCD;
+}
+
+.pypi{
+	color: #579BCD;
+}
+footer{
+	margin-top: 30px;
+	background-color: #265175;
+	text-align: center;
+}
+
+footer p{
+	color: #89BAE3;
+	display: inline;
+	margin-right: 50px;
+}
+
+small{
+	margin-top: 5px;
+	padding-bottom: 5px;
+	display: block;
+	color: #89BAE3;
+	font-size: 8px;
+}
